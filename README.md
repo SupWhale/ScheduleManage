@@ -9,4 +9,4 @@
 
 API 명세서
 
-https://www.postman.com/supwhale/my-workspace/documentation/nswe67t/api-documentation?workspaceId=4327bbf1-8623-4b39-82eb-8f4e760814d6
+[https://www.postman.com/supwhale/my-workspace/documentation/nswe67t/api-documentation?workspaceId=4327bbf1-8623-4b39-82eb-8f4e760814d6](https://identity.getpostman.com/handover/multifactor?user=11659089&handover_token=1e5a296c-4723-49e8-9bb4-28e0c0b9c56e)
