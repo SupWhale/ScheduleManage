@@ -2,7 +2,8 @@
 
 일정 관리 ERD 다이어그램
 
-![ScheduleManage](https://github.com/user-attachments/assets/540c889e-1b07-4af6-86be-685a4f0f0988)
+![ERD 다이어그램](https://github.com/user-attachments/assets/b6607e02-31d3-4092-bd47-f932f87866da)
+
 
 
 
